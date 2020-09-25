@@ -1,0 +1,13 @@
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.exe
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.deps.json
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.runtimeconfig.json
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.runtimeconfig.dev.json
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.dll
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\bin\Debug\netcoreapp3.1\propetiesDateTime.pdb
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.AssemblyInfoInputs.cache
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.AssemblyInfo.cs
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.dll
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.pdb
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.genruntimeconfig.cache
+C:\Users\pedro.oliveira\source\repos\propetiesDateTime\propetiesDateTime\obj\Debug\netcoreapp3.1\propetiesDateTime.csprojAssemblyReference.cache

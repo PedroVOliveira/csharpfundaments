@@ -1,0 +1,13 @@
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.exe
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.deps.json
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.runtimeconfig.json
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.runtimeconfig.dev.json
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.dll
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\bin\Debug\netcoreapp3.1\ConditionalTernary.pdb
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.csprojAssemblyReference.cache
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.AssemblyInfoInputs.cache
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.AssemblyInfo.cs
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.csproj.CoreCompileInputs.cache
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.dll
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.pdb
+C:\Users\pedro.oliveira\source\repos\ConditionalTernary\ConditionalTernary\obj\Debug\netcoreapp3.1\ConditionalTernary.genruntimeconfig.cache

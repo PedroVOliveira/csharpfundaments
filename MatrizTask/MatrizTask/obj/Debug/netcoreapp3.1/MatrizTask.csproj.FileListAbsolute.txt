@@ -1,0 +1,13 @@
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.exe
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.deps.json
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.runtimeconfig.json
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.runtimeconfig.dev.json
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.dll
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\bin\Debug\netcoreapp3.1\MatrizTask.pdb
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.csprojAssemblyReference.cache
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.AssemblyInfoInputs.cache
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.AssemblyInfo.cs
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.csproj.CoreCompileInputs.cache
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.dll
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.pdb
+C:\Users\pedro.oliveira\source\repos\MatrizTask\MatrizTask\obj\Debug\netcoreapp3.1\MatrizTask.genruntimeconfig.cache

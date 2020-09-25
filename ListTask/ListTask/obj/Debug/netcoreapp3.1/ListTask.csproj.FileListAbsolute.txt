@@ -1,0 +1,13 @@
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.exe
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.deps.json
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.runtimeconfig.json
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.runtimeconfig.dev.json
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.dll
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\bin\Debug\netcoreapp3.1\ListTask.pdb
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.csprojAssemblyReference.cache
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.AssemblyInfoInputs.cache
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.AssemblyInfo.cs
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.dll
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.pdb
+C:\Users\pedro.oliveira\source\repos\ListTask\ListTask\obj\Debug\netcoreapp3.1\ListTask.genruntimeconfig.cache
